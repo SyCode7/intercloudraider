@@ -1,14 +1,14 @@
 #summary One-sentence summary of this page.
 
-= Installation =
+== Installation ==
 
 Add your content here.
 
 
-= Compiling and Running =
+== Compiling and Running ==
 
-== Prerequisites ==
+=== Prerequisites ===
 
-= Code Structure =
+== Code Structure ==
 
 The important classes and libraries in the code are:
