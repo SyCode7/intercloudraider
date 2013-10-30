@@ -1,4 +1,4 @@
-#How to install InterCloud RAIDer.
+# How to install InterCloud RAIDer.
 
 == Installation ==
 
