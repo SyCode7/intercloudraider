@@ -1,13 +1,37 @@
-#summary One-sentence summary of this page.
+#summary the features of InterCloud RAIDer.
 
-= Introduction =
+== Backup ==
 
-Add your content here.
+The users can use the backup feature of interCloud RAIDer to store files at cloud service providers. 
 
+Click Start New Operation.
 
-= Details =
+Select Backup in the new pop-up window.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Choose a file/folder from the local files system.
+
+Click Ok and proceed to Summary Page.
+
+Click run to execute.
+
+== Retrieve ==
+
+The users can use the backup feature of interCloud RAIDer to store files at cloud service providers. 
+
+Click Start New Operation.
+
+Select Retrieve in the new pop-up window.
+
+Choose an entry from the backup log. Then, choose a path to store the retrieving file.
+
+Click Ok and proceed to Summary Page.
+
+Click run to execute.
+
+== Delete ==
+
+abc...
+
+== Verify ==
+
+abc...
