@@ -12,7 +12,7 @@ Please log on to the Dropbox website https://www.dropbox.com/register and provid
 
 === Google Drive ===
 
-Please log on to the https://developers.google.com/drive/ and follows the instructions provided to create a project.
+Please log on to the https://cloud.google.com/console#/flows/enableapi?apiid=drive and follows the instructions provided to create a project.
 
 If you haven't already registered your application with the Google Cloud Console, then set up a project and application in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
 
@@ -27,7 +27,9 @@ In either case, you end up on the application's credentials page.
 
 To find your application's client ID and client secret, and set a redirect URI, expand the OAuth 2.0 Client ID section.
 
-Take note of the Client ID as you'll need to add it to your code later.
+Take note of the Client ID as you'll need to add it to your code later.\
+
+The details of the instructions can be found on https://developers.google.com/drive/
 
 === SkyDrive ===
 
