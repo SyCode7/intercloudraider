@@ -6,7 +6,9 @@ The users have to register for an account at the cloud service providers and get
 
 === Dropbox ===
 
-abc...
+Please log on to the Dropbox website https://www.dropbox.com/register and provide an valid email to create an account at Dropbox.
+
+
 
 === Google Drive ===
 
