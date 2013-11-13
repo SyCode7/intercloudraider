@@ -9,6 +9,9 @@ The users have to register for an account at the cloud service providers and get
 Please log on to the Dropbox website https://www.dropbox.com/register and provide an valid email to create an account at Dropbox.
 
 
+Then, the webpage will be redirect to another page. app key is your client id, and app secret is your client secret.
+
+
 
 === Google Drive ===
 
