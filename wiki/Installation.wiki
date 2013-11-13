@@ -1,9 +1,11 @@
 #how to install Intercloud RAIDer.
 
-== Installation ==
+== Pre-Installation ==
 
-Add your content here.
+The users of Intercloud RAIDer 
 
+
+== Pre-Installation ==
 
 == Compiling and Running ==
 
