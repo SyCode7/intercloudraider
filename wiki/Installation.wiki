@@ -12,7 +12,13 @@ Please log on to the Dropbox website https://www.dropbox.com/register and provid
 
 === Google Drive ===
 
-abc...
+Please log on to the Google https://developers.google.com/drive/about-auth and follows the instructions provided to create a project.
+
+Go to the Google Cloud Console.
+Select a project.
+In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
+In the sidebar on the left, select Registered apps.
+Select an application.
 
 === SkyDrive ===
 
