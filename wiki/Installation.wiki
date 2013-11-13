@@ -2,8 +2,23 @@
 
 == Pre-Installation ==
 
-The users of Intercloud RAIDer 
+The users have to register for an account at the cloud service providers and get a pair of client id and client secret after registration that is supporting by InterCloud RAIDer. The procedures of registration at different cloud service providers are describing as follows:
 
+=== Dropbox ===
+
+abc...
+
+=== Google Drive ===
+
+abc...
+
+=== SkyDrive ===
+
+abc...
+
+=== Ubuntu One ===
+
+abc...
 
 == Pre-Installation ==
 
