@@ -22,7 +22,7 @@ abc...
 
 == Installation ==
 
-The source code of the InterCloud RAIDer can be downloaded by following the instruction at 
+The source code of the InterCloud RAIDer can be downloaded by following the instruction at [Source Tab]
 
 == Compiling and Running ==
 
