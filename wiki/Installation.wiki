@@ -2,7 +2,7 @@
 
 == Pre-Installation ==
 
-The users have to register for an account at the cloud service providers that are supporting by !InterCloud RAIDer and get a pair of *client id* and *client secret* after registration. During the first running of !InterCloud RAIDer, the system will request for the pair of client id and client secret that is retrieving from the service providers. The system will then use the credential pair for authorization when making access requests to the service providers. See [] for more details.
+The users have to register for an account at the cloud service providers that are supporting by !InterCloud RAIDer and get a pair of *key* and *secret* after registration. During the first running of !InterCloud RAIDer, the system will request for the pair of client id and client secret that is retrieving from the service providers. The system will then use the credential pair for authorization when making access requests to the service providers. See [] for more details.
 
 The registration procedures of different cloud service providers are describing as follows:
 
@@ -16,7 +16,7 @@ Then,
 
  * After creating an application, the webpage will be redirect to application's credentials page.
 
- * Take note of the credential pair of *app key* and *app secret* as app key is the client id and app secret is the client secret.
+ * Take note of the credential pair of *app key* and *app secret*.
 
 If you have already created an application for !InterCloud RAIDer, you can always retrieve the credential pair at https://www.dropbox.com/developers/apps.
 
