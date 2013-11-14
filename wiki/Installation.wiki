@@ -25,7 +25,7 @@ If you have already created an application for !InterCloud RAIDer, you can alway
 If you don't have a Google account, please log on to  https://accounts.google.com/SignUp and register for an account.
 
 Then,
- * If you haven't already registered your application with the Google Cloud Console, then [https://cloud.google.com/console#/flows/enableapi?apiid=drive  set up a project and application in the Cloud Console] and set up a project and application for !InterCloud RAIDer in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
+ * If you haven't already registered your application with the Google Cloud Console, then [https://cloud.google.com/console#/flows/enableapi?apiid=drive  set up a project and application in the Cloud Console] for !InterCloud RAIDer. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
 
  * If you've already registered your application with the Cloud Console, then follow this procedure instead:
    # Go to [https://cloud.google.com/console#/project Google Cloud Console].
