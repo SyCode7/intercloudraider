@@ -50,6 +50,7 @@ abc...
 
 If you don't have an Ubuntu One account, please log on to https://login.ubuntu.com/+login and register for an account by providing an valid email.
 
+The *consumer key* and *consumer secret* are automatically set to _ubuntuone_ and _hammertime_.
 
 
 
