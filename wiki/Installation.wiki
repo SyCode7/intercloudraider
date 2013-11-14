@@ -14,7 +14,7 @@ Please visit https://www.dropbox.com/developers/apps/create and create an applic
 
 Then, the webpage will be redirect to application's credentials page.
 
-app key is your client id, and app secret is your client secret.
+Take note of the pair of *app key* and *app secret* as app key is the client id and app secret is the client secret.
 
 
 
