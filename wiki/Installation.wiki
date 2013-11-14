@@ -55,7 +55,7 @@ If you don't have an Ubuntu One account, please log on to https://login.ubuntu.c
 
 == Installation ==
 
-The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [Source Tab]
+The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [Source]
 
 == Compiling and Running ==
 
