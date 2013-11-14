@@ -42,7 +42,7 @@ Then,
 
 The details of the instructions can be found at https://developers.google.com/drive.
 
-=== SkyDrive ===
+=== !SkyDrive ===
 
 abc...
 
