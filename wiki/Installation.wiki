@@ -8,7 +8,7 @@ The procedures of registration at different cloud service providers are describi
 
 === Dropbox ===
 
-Please log on to the Dropbox website https://www.dropbox.com/register and provide an valid email to create an account at Dropbox.
+Please log on to the Dropbox website https://www.dropbox.com/register and register for an account at Dropbox by providing an valid email.
 
 Please visit the website https://www.dropbox.com/developers/apps/create and create an application.
 
