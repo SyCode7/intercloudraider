@@ -10,11 +10,12 @@ The registration procedures of different cloud service providers are describing 
 
 If you don't have a Dropbox account, please log on to  https://www.dropbox.com/register and register for an account by providing an valid email.
 
-Please go to https://www.dropbox.com/developers/apps/create and create an application. 
+Then,
 
-After creating an application, the webpage will be redirect to application's credentials page.
+ * Please go to https://www.dropbox.com/developers/apps/create and create an application. 
+ * After creating an application, the webpage will be redirect to application's credentials page.
 
-Take note of the pair of *app key* and *app secret* as app key is the client id and app secret is the client secret.
+ * Take note of the pair of *app key* and *app secret* as app key is the client id and app secret is the client secret.
 
 === Google Drive ===
 
