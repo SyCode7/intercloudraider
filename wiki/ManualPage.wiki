@@ -6,7 +6,7 @@
 
 == Functions == 
 
-The !InterCloud RAIDer provides the following functions: *Backup*, 
+The !InterCloud RAIDer provides the following functions: _Backup_, 
 *Retrieve*, *Delete*, and *Verify*.
 
 The following subsections describe how to manually operate those functions by using GUI of !InterCloud RAIDer.
