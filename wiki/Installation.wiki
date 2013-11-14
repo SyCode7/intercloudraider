@@ -50,9 +50,12 @@ abc...
 
 If you don't have an Ubuntu One account, please log on to https://login.ubuntu.com/+login and register for an account by providing an valid email.
 
+
+
+
 == Installation ==
 
-The source code of the InterCloud RAIDer can be downloaded by following the instruction in the [Source Tab]
+The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [Source Tab]
 
 == Compiling and Running ==
 
