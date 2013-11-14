@@ -40,7 +40,7 @@ Then,
 
  * Take note of the pair of *Client ID* and *Client secret* as you'll need to input it for the first running of !InterCloud RAIDer.
 
-The details of the instructions can be found at https://developers.google.com/drive.
+The details of the instructions can be found at [https://developers.google.com/drive Google Drive SDK].
 
 === !SkyDrive ===
 
