@@ -41,4 +41,9 @@ To begin, please follow the following steps:
  # Click *Delete* to execute.
 
 === Verify ===
-abc...
+The users may verify the integrity of outsourced data at every service providers, so that the data is not compromised by misbehaving of individual services, e.g. illegitimate modification or deletion, by using Provable Data Possession (PDP) mechanism. We omit the details of PDP.
+
+To begin, please follow the following steps:
+ # Click *Tools* in the side bar on the top left.
+ # Click *PDP Verification* and click *OK* in the pop-up window.
+ # Select the service you wish to verify for the integrity and click *OK* to execute.
