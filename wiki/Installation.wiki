@@ -4,7 +4,7 @@
 
 The users have to register for an account at the cloud service providers that are supporting by !InterCloud RAIDer and get a pair of *client id* and *client secret* after registration. During the first running of !InterCloud RAIDer, the system will request for the pair of client id and client secret that is retrieving from the service providers. Then the system will use the pair for authorization when making access requests to the service providers. See [] for more details.
 
-The procedures of registration at different cloud service providers are describing as follows:
+The registration procedures of different cloud service providers are describing as follows:
 
 === Dropbox ===
 
