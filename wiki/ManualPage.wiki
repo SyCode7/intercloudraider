@@ -1,6 +1,12 @@
 #summary how to use InterCloud RAIDer.
 
-== Backup ==
+== Functions == 
+
+The InterCloud RAIDer provides the following functions: Backup, Retrieve, Delete, and Verify.
+
+The following subsections describe how to operate those functions in GUI.
+
+=== Backup ===
 The users can use the backup feature of !InterCloud RAIDer to store files across multiple cloud service providers to realize fault-tolerance against individual service providers with minimum redundancy. 
 
 To begin, please follow the following steps:
@@ -10,7 +16,7 @@ To begin, please follow the following steps:
  # Click *OK* and proceed to Summary Page.
  # Click *Run* to execute.
 
-== Retrieve ==
+=== Retrieve ===
 The users can use the retrieve feature of !InterCloud RAIDer to retrieve the files being stored at cloud service providers. 
 
 To begin, please follow the following steps:
@@ -20,7 +26,7 @@ To begin, please follow the following steps:
  # Click "OK" and proceed to Summary Page.
  # Click *Run* to execute.
 
-== Delete ==
+=== Delete ===
 The users may delete the unwanted, outdated or redundant copies of files from the database of !InterCloud RAIDer.
 
 To begin, please follow the following steps:
@@ -29,5 +35,5 @@ To begin, please follow the following steps:
  # Select an entry to be deleted.
  # Click *Delete* to execute.
 
-== Verify ==
+=== Verify ===
 abc...
