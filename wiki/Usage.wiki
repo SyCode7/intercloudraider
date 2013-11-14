@@ -1,4 +1,4 @@
-#summary the features of InterCloud RAIDer.
+#summary how to use !InterCloud RAIDer.
 
 == Backup ==
 
