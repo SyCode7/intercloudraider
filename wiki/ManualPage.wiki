@@ -18,13 +18,19 @@ The users can use the retrieve feature of !InterCloud RAIDer to retrieve the fil
 To begin, please follow the following steps:
  # Click *Start New Operation*.
  # Select *Retrieve* in the new pop-up window and click *OK*.
- # Choose an entry from the backup log and choose a path by browsing the local file system to save the retrieving file.
+ # Choose an entry from the operation log and choose a path by browsing the local file system to save the retrieving file.
  # Click "OK" and proceed to Summary Page.
  # Click *Run* to execute.
 
 == Delete ==
 
-abc...
+The users may delete the unwanted, outdated or redundant copies of files from the database of !InterCloud RAIDer.
+
+To begin, please follow the following steps:
+ # Click *File* in the side bar on the top left.
+ # Click *View Operation Log*.
+ # Select an entry to be deleted.
+ # Click *Delete* to execute.
 
 == Verify ==
 
