@@ -8,9 +8,9 @@ The procedures of registration at different cloud service providers are describi
 
 === Dropbox ===
 
-If you don't have a Dropbox account, please log on to the Dropbox website https://www.dropbox.com/register and register for an account by providing an valid email.
+If you don't have a Dropbox account, please log on to  https://www.dropbox.com/register and register for an account by providing an valid email.
 
-Please visit the website https://www.dropbox.com/developers/apps/create and create an application.
+Please visit https://www.dropbox.com/developers/apps/create and create an application.
 
 Then, the webpage will be redirect to another page. app key is your client id, and app secret is your client secret.
 
@@ -18,17 +18,17 @@ Then, the webpage will be redirect to another page. app key is your client id, a
 
 === Google Drive ===
 
-If you don't have a Google account, please log on to the Google website https://accounts.google.com/SignUp and register for an account.
+If you don't have a Google account, please log on to  https://accounts.google.com/SignUp and register for an account.
 
-If you haven't already registered your application with the Google Cloud Console, then please visit the website  https://cloud.google.com/console#/flows/enableapi?apiid=drive and set up a project and application in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
+If you haven't already registered your application with the Google Cloud Console, then please visit  https://cloud.google.com/console#/flows/enableapi?apiid=drive and set up a project and application in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
 
 If you've already registered your application with the Cloud Console, then follow this procedure instead:
 
-# Go to the Google Cloud Console.
-# Select a project.
-# In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
-# In the sidebar on the left, select Registered apps.
-# Select an application.
+ # Go to the Google Cloud Console.
+ # Select a project.
+ # In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
+ # In the sidebar on the left, select Registered apps.
+ # Select an application.
 
 In either case, you end up on the application's credentials page.
 
