@@ -48,3 +48,7 @@ To begin, please follow the following steps:
  # Click *Tools* in the side bar on the top left.
  # Click *PDP Verification* and click *OK* in the pop-up window.
  # Select the service you wish to verify for the integrity and click *OK* to execute.
+
+== Access Token ==
+
+bla bla bla 
