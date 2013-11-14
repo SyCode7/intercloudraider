@@ -18,7 +18,7 @@ Then,
 
  * Take note of the credential pair of *app key* and *app secret* as you'll need to input it for the first running of !InterCloud RAIDer.
 
-If you have already created an application for !InterCloud RAIDer, you can always retrieve the credential pair at https://www.dropbox.com/developers/apps.
+If you have already created an application for !InterCloud RAIDer, you can always retrieve the credential pair at [https://www.dropbox.com/developers/apps Dropbox App Console].
 
 === Google Drive ===
 
