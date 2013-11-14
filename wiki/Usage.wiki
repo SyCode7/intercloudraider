@@ -2,17 +2,17 @@
 
 == Backup ==
 
-The users can use the backup feature of interCloud RAIDer to store files at cloud service providers. 
+The users can use the backup feature of !InterCloud RAIDer to store files at cloud service providers. 
 
-Click Start New Operation.
+ # Click *Start New Operation*.
 
-Select Backup in the new pop-up window.
+ # Select *Back up* in the new pop-up window and click *OK*.
 
-Choose a file/folder from the local files system.
+ # Choose a file/folder by browsing the local file system.
 
-Click Ok and proceed to Summary Page.
+ # Click *OK* and proceed to Summary Page.
 
-Click run to execute.
+ # Click *Run* to execute.
 
 == Retrieve ==
 
