@@ -2,7 +2,7 @@
 
 == Pre-Installation ==
 
-The users have to register for an account at the cloud service providers and get a pair of client id and client secret after registration that is supporting by InterCloud RAIDer. The procedures of registration at different cloud service providers are describing as follows:
+The users have to register for an account at the cloud service providers that are supporting by !InterCloud RAIDer and get a pair of client id and client secret after registration. During the first running of !InterCloud RAIDer, the system will request for the pair of client id and client secret that is retrieving from the cloud storage providers. The procedures of registration at different cloud service providers are describing as follows:
 
 === Dropbox ===
 
