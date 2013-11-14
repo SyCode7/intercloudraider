@@ -5,6 +5,11 @@ After installation of the !InterCloud RAIDer, the users will be requested for a 
 
 The users can generate the key and secret pair by following the instructions in the [Registration].
 
+=== Modify Key and Secret === 
+The users may check and modify the key and secret even after first input:
+ # Click *Settings* in the side bar on the top left.
+ # Click *Background Parameter* and proceed to Background Parameter Page.
+
 
 == Functions == 
 The !InterCloud RAIDer provides the following functions: *Backup*, 
