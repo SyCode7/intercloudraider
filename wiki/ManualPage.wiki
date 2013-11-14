@@ -21,7 +21,6 @@ To begin, please follow the following steps:
  # Click *Run* to execute.
 
 == Delete ==
-
 The users may delete the unwanted, outdated or redundant copies of files from the database of !InterCloud RAIDer.
 
 To begin, please follow the following steps:
@@ -31,5 +30,4 @@ To begin, please follow the following steps:
  # Click *Delete* to execute.
 
 == Verify ==
-
 abc...
