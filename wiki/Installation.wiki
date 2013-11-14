@@ -12,7 +12,9 @@ If you don't have a Dropbox account, please log on to  https://www.dropbox.com/r
 
 Please visit https://www.dropbox.com/developers/apps/create and create an application.
 
-Then, the webpage will be redirect to another page. app key is your client id, and app secret is your client secret.
+Then, the webpage will be redirect to application's credentials page.
+
+app key is your client id, and app secret is your client secret.
 
 
 
@@ -28,14 +30,11 @@ Then,
    # In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
    # In the sidebar on the left, select Registered apps.
    # Select an application.
+ * In either case, you end up on the application's credentials page.
+ * To find your application's client ID and client secret, and set a redirect URI (please set to urn:ietf:wg:oauth:2.0:oob), expand the OAuth 2.0 Client ID section.
+ *Take note of the Client ID and Client Secret as you'll need to add it to your code later.
 
-In either case, you end up on the application's credentials page.
-
-To find your application's client ID and client secret, and set a redirect URI (please set to urn:ietf:wg:oauth:2.0:oob), expand the OAuth 2.0 Client ID section.
-
-Take note of the Client ID as you'll need to add it to your code later.
-
-The details of the instructions can be found on https://developers.google.com/drive/
+The details of the instructions can be found at https://developers.google.com/drive/
 
 === SkyDrive ===
 
