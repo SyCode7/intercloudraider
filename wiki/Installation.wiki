@@ -20,16 +20,15 @@ Then, the webpage will be redirect to another page. app key is your client id, a
 
 If you don't have a Google account, please log on to  https://accounts.google.com/SignUp and register for an account.
 
- * If you haven't already registered your application with the Google Cloud Console, then please visit  https://cloud.google.com/console#/flows/enableapi?apiid=drive and set up a project and application in the Cloud Console. 
- * The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
-
+Then,
+ * If you haven't already registered your application with the Google Cloud Console, then please visit  https://cloud.google.com/console#/flows/enableapi?apiid=drive and set up a project and application in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
  * If you've already registered your application with the Cloud Console, then follow this procedure instead:
 
- # Go to the Google Cloud Console.
- # Select a project.
- # In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
- # In the sidebar on the left, select Registered apps.
- # Select an application.
+  # Go to the Google Cloud Console.
+  # Select a project.
+  # In the sidebar on the left, select APIs & auth. In the displayed list of APIs, make sure the Drive API status is set to ON.
+  # In the sidebar on the left, select Registered apps.
+  # Select an application.
 
 In either case, you end up on the application's credentials page.
 
