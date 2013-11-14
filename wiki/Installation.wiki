@@ -8,7 +8,7 @@ The procedures of registration at different cloud service providers are describi
 
 === Dropbox ===
 
-Please log on to the Dropbox website https://www.dropbox.com/register and register for an account at Dropbox by providing an valid email.
+If you don't have a Dropbox account, please log on to the Dropbox website https://www.dropbox.com/register and register for an account by providing an valid email.
 
 Please visit the website https://www.dropbox.com/developers/apps/create and create an application.
 
@@ -17,6 +17,8 @@ Then, the webpage will be redirect to another page. app key is your client id, a
 
 
 === Google Drive ===
+
+If you don't have a Google account, please log on to the Google website https://accounts.google.com/SignUp and register for an account.
 
 Please log on to the https://cloud.google.com/console#/flows/enableapi?apiid=drive and follows the instructions provided to create a project.
 
