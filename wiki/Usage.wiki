@@ -4,7 +4,7 @@
 
 The users can use the backup feature of !InterCloud RAIDer to store files across multiple cloud service providers to realize fault-tolerance against individual service providers with minimum redundancy. 
 
-To begin,
+To begin, please follow the following steps:
  # Click *Start New Operation*.
  # Select *Back up* in the new pop-up window and click *OK*.
  # Choose a file/folder by browsing the local file system.
@@ -13,17 +13,14 @@ To begin,
 
 == Retrieve ==
 
-The users can use the backup feature of interCloud RAIDer to store files at cloud service providers. 
+The users can use the retrieve feature of !InterCloud RAIDer to retrieve the files being stored at cloud service providers. 
 
-Click Start New Operation.
-
-Select Retrieve in the new pop-up window.
-
-Choose an entry from the backup log. Then, choose a path to store the retrieving file.
-
-Click Ok and proceed to Summary Page.
-
-Click run to execute.
+To begin, please follow the following steps:
+ # Click *Start New Operation*.
+ # Select *Retrieve* in the new pop-up window and click *OK*.
+ # Choose an entry from the backup log and choose a path by browsing the local file system to save the retrieving file.
+ # Click "OK" and proceed to Summary Page.
+ # Click *Run* to execute.
 
 == Delete ==
 
