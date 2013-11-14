@@ -1,7 +1,7 @@
 #summary how to use InterCloud RAIDer.
 
 == First Running of !InterCloud RAIDer ==
-The users will be requested for a pair of [https://code.google.com/p/intercloudraider/wiki/Registration#key_and_secret key and secret] during the first running of !InterCloud RAIDer after installation which is needed for authorization according to OAuth1.0/OAuth2.0. The pair of credentials will then be stored in the local database of !InterCloud RAIDer. When making access requests to cloud services, the system will retrieve the pair from the local database. 
+The users will be requested for a pair of [Registration key and secret] during the first running of !InterCloud RAIDer after installation which is needed for authorization according to OAuth1.0/OAuth2.0. The pair of credentials will then be stored in the local database of !InterCloud RAIDer. When making access requests to cloud services, the system will retrieve the pair from the local database. 
 
 The users can generate the key and secret by following the instructions in the page [Registration].
 
