@@ -12,7 +12,8 @@ If you don't have a Dropbox account, please log on to  https://www.dropbox.com/r
 
 Then,
 
- * Please go to https://www.dropbox.com/developers/apps/create and create an application. 
+ * Please go to https://www.dropbox.com/developers/apps/create and create an application.
+
  * After creating an application, the webpage will be redirect to application's credentials page.
 
  * Take note of the pair of *app key* and *app secret* as app key is the client id and app secret is the client secret.
@@ -23,14 +24,18 @@ If you don't have a Google account, please log on to  https://accounts.google.co
 
 Then,
  * If you haven't already registered your application with the Google Cloud Console, then please visit  https://cloud.google.com/console#/flows/enableapi?apiid=drive and set up a project and application in the Cloud Console. The system guides you through the process of choosing or creating a project and registering a new application, and it automatically activates the API for you.
+
  * If you've already registered your application with the Cloud Console, then follow this procedure instead:
    # Go to https://cloud.google.com/console#/project.
    # Select a project.
    # In the sidebar on the left, select *APIs & auth*. In the displayed list of APIs, make sure the Drive API status is set to *ON*.
    # In the sidebar on the left, select *Registered apps*.
    # Select an application.
+
  * In either case, you end up on the application's credentials page.
+
  * To find your application's client ID and client secret, and set a redirect URI (please set to _urn:ietf:wg:oauth:2.0:oob_), expand the OAuth 2.0 Client ID section.
+
  * Take note of the pair of *Client ID* and *Client secret* as you'll need to input it for the first running of !InterCloud RAIDer.
 
 The details of the instructions can be found at https://developers.google.com/drive/
