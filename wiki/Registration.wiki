@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary how to register for an account and get a pair of credentials.
 
 == Key and Secret ==
 
