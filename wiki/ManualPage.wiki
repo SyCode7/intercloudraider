@@ -9,7 +9,7 @@
 The !InterCloud RAIDer provides the following functions: *Backup*, 
 *Retrieve*, *Delete*, and *Verify*.
 
-The following subsections describe how to operate those functions by using GUI of !InterCloud RAIDer.
+The following subsections describe how to manually operate those functions by using GUI of !InterCloud RAIDer.
 
 === Backup ===
 The users can use the backup feature of !InterCloud RAIDer to store files across multiple cloud service providers to realize fault-tolerance against individual service providers with minimum redundancy. 
