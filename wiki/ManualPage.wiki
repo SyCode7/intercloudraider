@@ -59,7 +59,7 @@ For every running of !InterCloud RAIDer, the users are being asked for the conse
 
 The users are either be requested to approve the authorization process by clicking "*Allow*", "*Accept*" or "*Add this computer*" by visiting the webpages of the cloud services, or be requested to provide an *one-time verification code* after being redirected to another webpage.
 
-The steps to formalize the authorization process of each cloud services are described as follows:
+The steps to formalize the authorization process of each cloud service are described as follows:
 
 === Dropbox ===
 bb
