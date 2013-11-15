@@ -55,6 +55,6 @@ To begin, please follow the following steps:
  # Select the service you wish to verify for the integrity and click *OK* to execute.
 
 == Authorization Protocol ==
-For every running of !InterCloud RAIDer, the users are being asked for the consent to process the authorization protocol ([http://oauth.net/core/1.0/ OAuth1.0]/[http://oauth.net/ OAuth2.0]) when making access requests to cloud services during the execution of the functions, e.g., [ManualPage#Functions#backup backup], *retrieve*, *delete*, and *verify*. 
+For every running of !InterCloud RAIDer, the users are being asked for the consent to process the authorization protocol ([http://oauth.net/core/1.0/ OAuth1.0]/[http://oauth.net/ OAuth2.0]) when making access requests to cloud services during the execution of the functions, e.g., [ManualPage#Functions_backup backup], *retrieve*, *delete*, and *verify*. 
 
 The users are either be requested to approve the authorization process by clicking "*Allow*", "*Accept*" or "*Add this computer*" by visiting the webpages of the cloud services, or be requested to provide an one-time *verification code* after being redirected to another webpage.
