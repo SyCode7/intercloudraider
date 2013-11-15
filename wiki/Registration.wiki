@@ -47,9 +47,11 @@ The details of the instructions can be found at [https://developers.google.com/d
 If you don't have a Microsoft account, please log on to  https://signup.live.com/ and register for an account.
 
 Then,
- * Please go to [https://account.live.com/developers/applications/create My apps] at Live Connect Developer Center and create an application.
+ * Please go to [https://account.live.com/developers/applications/create My apps] at Live Connect Developer Center and create an application for !InterCloud RAIDer.
 
- * 
+ * After creating an application, the webpage will be redirect to application's credentials page.
+
+ * Take note of the credential pair of *Client ID* and *Client secret* as you'll need to input it for the first running of !InterCloud RAIDer.
 
 === Ubuntu One ===
 
