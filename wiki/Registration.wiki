@@ -4,7 +4,7 @@
 
 The users have to register for an account at the cloud service providers that are supporting by !InterCloud RAIDer and get a pair of *key* and *secret* after registration. During the first running of !InterCloud RAIDer, the system will request for the pair of key and secret that is retrieving from the service providers. The system will then use the pair of credentials for authorization when making access requests to the service providers. 
 
-See [ManualPage#First_Running_of_InterCloud_RAIDer abc] for more details.
+See [ManualPage#First_Running_of_InterCloud_RAIDer First Running of InterCloud RAIDer] for more details.
 
 The registration procedures of different cloud service providers are describing as follows:
 
