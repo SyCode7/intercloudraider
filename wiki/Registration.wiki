@@ -53,6 +53,8 @@ Then,
 
  * Take note of the credential pair of *Client ID* and *Client secret* as you'll need to input it for the first running of !InterCloud RAIDer.
 
+If you have already created an application for InterCloud RAIDer, you can always retrieve the credential pair at https://account.live.com/developers/applications.
+
 === Ubuntu One ===
 
 If you don't have an Ubuntu One account, please log on to https://login.ubuntu.com/+login and register for an account by providing an valid email.
