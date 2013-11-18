@@ -11,7 +11,7 @@ The users may check and modify the key and secret even after first input:
  # Click *Background Parameter* and proceed to Background Parameter Page.
 
 
-== Functions == 
+== Functions of !InterCloud RAIDer == 
 The !InterCloud RAIDer provides the following functions: *Backup*, 
 *Retrieve*, *Delete*, and *Verify*.
 
