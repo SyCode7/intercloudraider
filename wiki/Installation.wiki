@@ -10,9 +10,10 @@ bla bla bla
 
 === Prerequisites ===
 
-bla bla bla
 polar ssl
+
 qjson
+
 qt
 
 === Compiling ===
