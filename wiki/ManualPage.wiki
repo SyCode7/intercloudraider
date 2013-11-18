@@ -64,17 +64,19 @@ The steps to formalize the authorization process of each cloud service are descr
 === Dropbox ===
  # Click *Open Link* in the pop-up window entitled *Dropbox Authorization*.
  # Click *Allow* in the pop-up webpage.
- # Click *OK* in the pop-up window entitled *Proceed to next cloud service*.
+ # Click *OK* in the pop-up window entitled *Proceed to next step*.
 
 === Google Drive ===
  # Click *Open Link* in the pop-up window entitled *Google Drive  Authorization*.
  # Click *Accept* in the pop-up webpage.
- # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next cloud service*. The verification code is in the bar under the text "Please copy this code, switch to your application and paste it there:".
+ # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next step*. The verification code is in the bar under the text "Please copy this code, switch to your application and paste it there:".
 
 === !SkyDrive ===
  # Click *Open Link* in the pop-up window entitled *!SkyDrive  Authorization*.
  # Sign in your !SkyDrive account with valid email.
- # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next cloud service*. The verification code is located in the *url bar*, after the text *code=*.
+ # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next step*. The verification code is located in the *url bar*, after the text *code=*.
 
 === Ubuntu One ===
-bb
+ # Click *Open Link* in the pop-up window entitled *Ubuntu One  Authorization*.
+ # Click *Add This Computer* in the pop-up webpage.
+ # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next step*. The verification code is located in the *url bar*, between the text *oauth_verifier=* and *&return=https://one.ubuntu.com*.
