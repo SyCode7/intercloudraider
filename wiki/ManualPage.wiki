@@ -72,7 +72,9 @@ The steps to formalize the authorization process of each cloud service are descr
  # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next cloud service*. The verification code is in the bar under the text "Please copy this code, switch to your application and paste it there:".
 
 === !SkyDrive ===
-bb
+ # Click *Open Link* in the pop-up window entitled *!SkyDrive  Authorization*.
+ # Sign in your !SkyDrive account with valid email.
+ # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next cloud service*. The verification code is located in the *url bar*, after the text *code=*.
 
 === Ubuntu One ===
 bb
