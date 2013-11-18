@@ -64,10 +64,12 @@ The steps to formalize the authorization process of each cloud service are descr
 === Dropbox ===
  # Click *Open Link* in the pop-up window entitled *Dropbox Authorization*.
  # Click *Allow* in the pop-up webpage.
- # Click *OK* in the pop-up dialog entitled *Proceed to next cloud service*.
+ # Click *OK* in the pop-up window entitled *Proceed to next cloud service*.
 
 === Google Drive ===
-bb
+ # Click *Open Link* in the pop-up window entitled *Google Drive  Authorization*.
+ # Click *Accept* in the pop-up webpage.
+ # Copy the *verification code* from the pop-up webpage and paste it in the line edit of the pop-up window entitled *Proceed to next cloud service*. The verification code is in the bar under the text "Please copy this code, switch to your application and paste it there:".
 
 === !SkyDrive ===
 bb
