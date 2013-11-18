@@ -79,4 +79,4 @@ The steps to formalize the authorization process of each cloud service are descr
 === Ubuntu One ===
  # Click *Open Link* in the pop-up window entitled *Ubuntu One  Authorization*.
  # Click *Add This Computer* in the pop-up webpage.
- # Copy the *verification code* from the webpage and paste it in the line edit of the pop-up window entitled *Proceed to next step*. The verification code is located in the *url bar* of the webpage, between the text *oauth_verifier=* and *&return=https://one.ubuntu.com*.
+ # Copy the *verification code* from the webpage and paste it in the line edit of the pop-up window entitled *Proceed to next step*. The verification code is located in the *url bar* of the webpage, between the text *oauth_verifier=* and *&return=*.
