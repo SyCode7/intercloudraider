@@ -6,13 +6,22 @@ The source code of the !InterCloud RAIDer can be downloaded by following the ins
 
 == Compiling and Running ==
 
+bla bla bla
+
 === Prerequisites ===
+
+bla bla bla
+polar ssl
+qjson
+qt
 
 === Compiling ===
 
 qt version
 
 === Running ===
+
+bla bla bla
 
 == Code Structure ==
 
