@@ -1,6 +1,6 @@
 #summary how to install InterCloud RAIDer.
 
-== Installation ==
+== Download ==
 
 The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [Source]
 
