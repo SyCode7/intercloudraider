@@ -62,7 +62,9 @@ The users are either be requested to approve the authorization process by clicki
 The steps to formalize the authorization process of each cloud service are described as follows:
 
 === Dropbox ===
-bb
+ # Click *Open Link* in the pop-up window entitled *Dropbox Authorization*.
+ # Click *Allow* in the pop-up webpage.
+ # Click *OK* in the pop-up dialog entitled *Proceed to next cloud service*.
 
 === Google Drive ===
 bb
