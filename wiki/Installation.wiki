@@ -9,9 +9,11 @@ The source code of the !InterCloud RAIDer can be downloaded by following the ins
 
 === Qt ===
 
-The implementation of InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt]/C++ framework. If you want to make any modification or improve the original code, please download [http://qt-project.org/downloads#Download_Qt,_the_cross-platform_application_framework_Qt Qt4.8 or any later version].
+The implementation of InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt]/C++ framework. If you want to make any modification or improve the original code, please download [http://qt-project.org/downloads Qt4.8 or any later version].
  
-=== PolarSSL === 
+=== PolarSSL ===
+
+The Provable Data Possession (PDP) mechanism of InterCloud RAIDer is using PolarSSL in its algorithms. Since each cipher and hashing algorithm in PolarSSL (AES, MD5, SHA-1, etc.) is self-contained and can be easily reused as a standalone module, we used only a modified version of PolarSSL which only including the implementation of AES and a version of random number generator ([https://polarssl.org/ctr-drbg-source-code#CTR-DRBG_source_code CTR-DRBG]).
 
 === QJson ===
 
