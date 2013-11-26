@@ -50,7 +50,7 @@ qt version
 
 === Running ===
 
-If you have downloaded the Qt SDK of version 4.8 or above, run the file `InterCloudRAIDer.pro` by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator].
+If you have downloaded the [http://qt-project.org/downloads Qt SDK of version 4.8 or above], run the file `InterCloudRAIDer.pro` by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator].
 
 == Code Structure ==
 
