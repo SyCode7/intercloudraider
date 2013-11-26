@@ -19,7 +19,7 @@ The modified version including the following files:
 
 === QJson ===
 
-QJson is a Qt-based library that maps [http://www.json.org/ JSON] data to [http://qt-project.org/doc/qt-5.0/qtcore/qvariant.html QVariant] objects and vice versa when sending to or receiving from internet. Since the network module of !InterCloud RAIDer only need to parse the JSON object that is replying from cloud services when making network requests, we used a modified version of QJson library that is able to use the *parsing* feature.
+QJson is a Qt-based library that maps [http://www.json.org/ JSON] data to [http://qt-project.org/doc/qt-5.0/qtcore/qvariant.html QVariant] objects and vice versa when sending to or receiving from internet. Since the network module of !InterCloud RAIDer only need to parse the JSON object that is replying from cloud services when making network requests, we used a modified version of QJson library that is able to use the [http://qjson.sourceforge.net/usage#Usage parsing feature].
 
 The modified version including the following files:
 
