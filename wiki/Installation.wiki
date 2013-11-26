@@ -2,7 +2,7 @@
 
 == Download ==
 
-The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [Source]
+The source code of the !InterCloud RAIDer can be downloaded by following the instructions in the [https://code.google.com/p/intercloudraider/source/checkout Source tab].
 
 == Prerequisites ==
 
