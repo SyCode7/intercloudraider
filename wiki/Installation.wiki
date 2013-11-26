@@ -13,10 +13,15 @@ The implementation of !InterCloud RAIDer is developed under the [http://qt.digia
  
 === PolarSSL ===
 
-The Provable Data Possession (PDP) mechanism of !InterCloud RAIDer is using PolarSSL in its algorithms. Since each cipher and hashing algorithm in PolarSSL (AES, MD5, SHA-1, etc.) is self-contained and can be easily reused as a standalone module, we used only a modified version of PolarSSL which only including the implementation of [https://polarssl.org/aes-source-code AES] and a version of random number generator ([https://polarssl.org/ctr-drbg-source-code CTR-DRBG]).
+The Provable Data Possession (PDP) mechanism of !InterCloud RAIDer is using [https://polarssl.org/ PolarSSL] in its algorithms. Since each cipher and hashing algorithm in PolarSSL (AES, MD5, SHA-1, etc.) is self-contained and can be easily reused as a standalone module, we used only a modified version of PolarSSL which only including the implementation of [https://polarssl.org/aes-source-code AES] and a version of random number generator ([https://polarssl.org/ctr-drbg-source-code CTR-DRBG]).
+
+The modified version including the following files:
 
 === QJson ===
 
+QJson is a Qt-based library that maps [http://www.json.org/ JSON] data to [http://qt-project.org/doc/qt-5.0/qtcore/qvariant.html QVariant] objects and vice versa when sending to or receiving from internet. Since the network module of !InterCloud RAIDer only need to parse the JSON object that is replying from cloud services when making network requests, we used a modified version of QJson library that is able to use the *parsing* feature.
+
+The modified version including the following files:
 
 
 == Compiling and Running ==
