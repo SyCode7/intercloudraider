@@ -16,16 +16,28 @@ The implementation of !InterCloud RAIDer is developed under the [http://qt.digia
 The Provable Data Possession (PDP) mechanism of !InterCloud RAIDer is using [https://polarssl.org/ PolarSSL] in its algorithms. Since each cipher and hashing algorithm in PolarSSL (AES, MD5, SHA-1, etc.) is self-contained and can be easily reused as a standalone module, we used only a modified version of PolarSSL which only including the implementation of [https://polarssl.org/aes-source-code AES] and a version of random number generator ([https://polarssl.org/ctr-drbg-source-code CTR-DRBG]).
 
 The modified version including the following files:
+ # `aes.h`
+ # `ctr_drbg.h`
+ # `entropy.h`
+ # `entropy_poll.h`
+ # `sha4.h`
+
+If there is any linking error when running !InterCloud RAIDer on your device, the following library is built for the implementation of `<wincrypt.h>` by using Qt:
+ # `advapi32_export.h`
+ # `advapi32.lib`
+ # `advapi32.dll`
 
 === QJson ===
 
-QJson is a Qt-based library that maps [http://www.json.org/ JSON] data to [http://qt-project.org/doc/qt-5.0/qtcore/qvariant.html QVariant] objects and vice versa when sending to or receiving from internet. Since the network module of !InterCloud RAIDer only need to parse the JSON object that is replying from cloud services when making network requests, we used a modified version of QJson library that is able to use the [http://qjson.sourceforge.net/usage parsing feature].
+[http://qjson.sourceforge.net/ QJson] is a Qt-based library that maps [http://www.json.org/ JSON] data to [http://qt-project.org/doc/qt-5.0/qtcore/qvariant.html QVariant] objects and vice versa when sending to or receiving from internet. Since the network module of !InterCloud RAIDer only need to parse the JSON object that is receiving from cloud services when making network requests, we used a modified version of QJson library that is able to use the [http://qjson.sourceforge.net/usage parsing feature].
 
 The modified version including the following files:
- # `qjson_export.h`
  # `parser.h`
+ # `qjson_export.h`
  # `qjson0.lib`
  # `qjson0.dll`
+
+The modified QJson (`qjson_export.h`, `qjson0.lib` and `qjson0.dll`) is built dynamically by using Qt framework. 
 
 == Compiling and Running ==
 
