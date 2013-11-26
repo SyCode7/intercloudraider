@@ -16,13 +16,13 @@ The implementation of !InterCloud RAIDer is developed under the [http://qt.digia
 The Provable Data Possession (PDP) mechanism of !InterCloud RAIDer is using [https://polarssl.org/ PolarSSL] in its algorithms. Since each cipher and hashing algorithm in PolarSSL (AES, MD5, SHA-1, etc.) is self-contained and can be easily reused as a standalone module, we used a modified version of PolarSSL which only including the implementation of [https://polarssl.org/aes-source-code AES] and a version of random number generator ([https://polarssl.org/ctr-drbg-source-code CTR-DRBG]).
 
 The modified version (based on [https://polarssl.org/download-archive version 1.2.8]) including the following files:
- # `aes.h`
- # `ctr_drbg.h`
- # `entropy.h`
- # `entropy_poll.h`
- # `sha4.h`
+ # `aes.h` and `aes.c`
+ # `ctr_drbg.h` and `ctr_drbg.c`
+ # `entropy.h` and `entropy.c`
+ # `entropy_poll.h` and `entropy_poll.c`
+ # `sha4.h` and `sha4.c`
 
-If there is any linking error when running !InterCloud RAIDer on your device, the following library is built for the implementation of `<wincrypt.h>` by using Qt:
+If there is any linking error when running !InterCloud RAIDer on your platform, the following library is built for the implementation of `<wincrypt.h>, which is used by `entropy_poll.c`, by using Qt:
  # `advapi32_export.h`
  # `advapi32.lib`
  # `advapi32.dll`
