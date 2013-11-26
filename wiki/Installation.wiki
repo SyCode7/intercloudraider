@@ -55,4 +55,9 @@ wrapper
 
 == Code Structure ==
 
-The important classes and libraries in the code are:
+The important classes and packages in the code are:
+
+CoreEngines - contain main classes pdp, delete, encode/decode
+DBContr - contain classes handling database sqlite3
+NetworkContr - handling network operation, upload download
+GUI - graphical user interface
