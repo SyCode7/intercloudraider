@@ -6,6 +6,7 @@ The source code of the !InterCloud RAIDer can be downloaded by following the ins
 
 == Prerequisites ==
 
+!InterCloud RAIDer makes use of some free lightweight libraries in its implementation.
 
 === Qt ===
 
