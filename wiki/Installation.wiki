@@ -57,8 +57,7 @@ wrapper
 == Code Structure ==
 
 The important classes and packages in the code are:
-
-CoreEngines - contain main classes pdp, delete, encode/decode
-DBContr - contain classes handling database sqlite3
-NetworkContr - handling network operation, upload download
-GUI - graphical user interface
+ # `CoreEngines` - contains main classes for executing the core features of !InterCloud RAIDer, e.g., *data deduplication*, *erasure coding* and *PDP*.
+ # `DBContr` - contains classes for manipulating the local database of !InterCloud RAIDer. The database is written in [http://www.sqlite.org/ SQLite3] by using the internal library of Qt.
+ # NetworkContr - contains classes for handling all network requests making to cloud services. 
+ # GUI - graphical user interface
