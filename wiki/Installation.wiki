@@ -10,7 +10,7 @@ The source code of the !InterCloud RAIDer can be downloaded by following the ins
 
 === Qt ===
 
-The implementation of !InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt/C++] framework. If you want to make any modification or improve the original code, please download [http://qt-project.org/downloads Qt4.8 or any later version].
+The implementation of !InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt/C++] framework. If you want to make any modification and improve the original code, or run !InterCloud RAIDer by using the original source code , please download [http://qt-project.org/downloads Qt4.8 or any later version].
  
 === PolarSSL ===
 
@@ -44,9 +44,10 @@ The QJson library (`qjson_export.h`, `qjson0.lib` and `qjson0.dll`) is built dyn
 
 === Compiling ===
 
-If you have downloaded the [http://qt-project.org/downloads Qt SDK of version 4.8 or above], run the file `InterCloudRAIDer.pro` in the downloaded package by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator].
-
-Then, the project !InterCloud RAIDer now is loaded to your Qt Creator. Go to *Projects* on the left bar, and modify your build path to a correct path. Press Ctrl + B to build. 
+After downloading the [http://qt-project.org/downloads Qt SDK of version 4.8 or above], please follow the following steps to build !InterCloud RAIDer:
+ # Run the file `InterCloudRAIDer.pro` in the downloaded package of !InterCloud RAIDer by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator]. The project !InterCloud RAIDer is now loaded to your Qt Creator. 
+ # In the sidebar on the left, select *Projects*, and modify your build directory to a correct path under the group box entitled *General*.
+ # Press `Ctrl + B` to build. 
 
 === Running ===
 
