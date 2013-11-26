@@ -23,7 +23,7 @@ The modified version (based on [https://polarssl.org/download-archive version 1.
  # `entropy_poll.h` and `entropy_poll.c`
  # `sha4.h` and `sha4.c`
 
-If there is any linking error when running !InterCloud RAIDer on your platform, the following library is built for the implementation of `<wincrypt.h>`, which is used by `entropy_poll.c`, by using Qt:
+If there is any linking error that is related to `<wincrypt.h>` when running !InterCloud RAIDer on your platform, the following library is built for the implementation of `<wincrypt.h>`, which is used by `entropy_poll.c`, by using Qt:
  # `advapi32_export.h`
  # `advapi32.lib`
  # `advapi32.dll`
