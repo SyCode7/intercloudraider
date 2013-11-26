@@ -37,7 +37,7 @@ The modified version including the following files:
  # `qjson0.lib`
  # `qjson0.dll`
 
-The modified QJson (`qjson_export.h`, `qjson0.lib` and `qjson0.dll`) is built dynamically by using Qt framework. 
+The QJson library (`qjson_export.h`, `qjson0.lib` and `qjson0.dll`) is built dynamically by using Qt framework. 
 
 == Compiling and Running ==
 
