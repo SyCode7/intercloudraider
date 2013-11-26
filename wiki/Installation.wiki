@@ -45,7 +45,7 @@ The QJson library (`qjson_export.h`, `qjson0.lib` and `qjson0.dll`) is built dyn
 === Step1 : Compiling ===
 
 After downloading the [http://qt-project.org/downloads Qt SDK of version 4.8 or above], please follow the following steps to build !InterCloud RAIDer:
- # Run the file `InterCloudRAIDer.pro` in the downloaded package of !InterCloud RAIDer by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator]. The project !InterCloud RAIDer is now loaded to your Qt Creator. 
+ # Run the file `InterCloudRAIDer.pro` in the downloaded package of !InterCloud RAIDer by using [http://qt-project.org/doc/qtcreator-2.8/ Qt Creator]. The project *InterCloudRAIDer* is now loaded to your Qt Creator. 
  # In the sidebar on the left, select *Projects*, and modify your build directory to a correct path under the group box entitled *General*.
  # Press Ctrl + B to build. 
 
