@@ -10,7 +10,7 @@ The source code of the !InterCloud RAIDer can be downloaded by following the ins
 
 === Qt ===
 
-The implementation of !InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt/C++] framework. If you want to make any modification and improve the original code, or run !InterCloud RAIDer by using the original source code, please download [http://qt-project.org/downloads Qt4.8. The current version of InterCloudRAIDer does not support Qt5.0+].
+The implementation of !InterCloud RAIDer is developed under the [http://qt.digia.com/ Qt/C++] framework. If you want to make any modification and improve the original code, or run !InterCloud RAIDer by using the original source code, please download [http://qt-project.org/downloads Qt4.8]. The current version of InterCloudRAIDer does not support Qt5.0+.
  
 === PolarSSL ===
 
