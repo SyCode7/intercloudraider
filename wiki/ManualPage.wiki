@@ -47,7 +47,7 @@ To begin, please follow the following steps:
  # Click *Delete* to execute.
 
 === Verify ===
-The users may verify the integrity of outsourced data at every service provider, so that the data is not compromised by misbehaving of individual services, e.g. illegitimate modification or deletion, by using Provable Data Possession (PDP) mechanism. We omit the details of PDP and the users who are interested in PDP can refer to [Wiki page].
+The users may verify the integrity of outsourced data at every service provider, so that the data is not compromised by misbehaving of individual services, e.g. illegitimate modification or deletion, by using Provable Data Possession (PDP) mechanism. We omit the details of PDP and the users who are interested in PDP can refer to [http://sands.sce.ntu.edu.sg/CodingForNetworkedStorage/pdf/intercloudraider.pdf  InterCloud RAIDer].
 
 To begin, please follow the following steps:
  # Click *Tools* in the side bar on the top left.
